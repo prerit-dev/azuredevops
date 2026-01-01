@@ -1,0 +1,9 @@
+{
+	"name": "dfprerit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8dcc719-3de9-4a88-a7b9-4cf06c04b650",
+		"tenantId": "07f37c17-7921-477c-8e4f-1fe7ef7f7925"
+	}
+}
